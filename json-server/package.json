@@ -1,0 +1,12 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "simple backend",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": ["server", "json"],
+  "author": "sadiq",
+  "license": "ISC"
+}
